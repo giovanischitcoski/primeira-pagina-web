@@ -21,7 +21,7 @@ O objetivo deste projeto é criar uma página web simples, organizada e funciona
 1. Clone o repositório para o seu computador:
 
    ```bash
-   git clone https://github.com/usuario/nomedorepositorio.git
+   git clone https://github.com/usuario/https://github.com/giovanischitcoski/primeira-pagina-web.git
    ```
 
 2. Abra o arquivo `index.html` no seu navegador.
